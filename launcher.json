@@ -1,18 +1,18 @@
 {
-  Modpacks: [
+  "Modpacks": [
     {
-      Name: "Modded Minecraft",
-      ModpackVersion: "Totally Cool"
+      "Name": "Modded Minecraft",
+      "ModpackVersion": "Totally Cool"
     },
     {
-      Name: "Vanilla Plus",
-      ModpackVersion: "Totally Cool"
+      "Name": "Vanilla Plus",
+      "ModpackVersion": "Totally Cool"
     },
     {
-      Name: "Vanilla Minecraft",
-      ModpackVersion: "Totally Cool"
+      "Name": "Vanilla Minecraft",
+      "ModpackVersion": "Totally Cool"
     }
   ],
-  NewsImageUrl: "https://www.tarrenproduction.co.uk/wp-content/uploads/2016/06/YouTube-logo-200x200.png",
-  News: "This is only a test"
+  "NewsImageUrl": "https://www.tarrenproduction.co.uk/wp-content/uploads/2016/06/YouTube-logo-200x200.png",
+  "News": "This is only a test"
 }

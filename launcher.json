@@ -125,6 +125,23 @@
           "ServerSide": false,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Mod Menu",
+          "Description": "Adds a mod menu to view the list of mods you have installed.",
+          "Version": "7.2.2",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/mOgUt4GM",
+          "ImageURL": "https://cdn.modrinth.com/data/mOgUt4GM/1b6bcdef5a3d92572f517122650716be7ec6458b.webp",
+          "DownloadURL": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar",
+          "Filename": "modmenu-7.2.2.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "mOgUt4GM",
+          "ClientSide": true,
+          "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
         }
       ],
       "LastUpdated": "2024-04-28T10:09:16"

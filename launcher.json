@@ -8,23 +8,6 @@
       "ModLoader": "Fabric",
       "Files": [
         {
-          "Name": "Simply Swords",
-          "Description": "Adds Spears, Glaives, Chakrams, Katanas, Greathammer/axes, Rapiers, and many more weapons!",
-          "Version": "1.55.0-1.20.1",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/bK3Ubu9p",
-          "ImageURL": "https://cdn.modrinth.com/data/bK3Ubu9p/02acc4786eb1695f6496aff5403b331a4784bf65.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/r5QBtUE9/simplyswords-fabric-1.55.0-1.20.1.jar",
-          "Filename": "simplyswords-fabric-1.55.0-1.20.1.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "bK3Ubu9p",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "5sy6g3kz", "9s6osm5g", "lhGA9TYQ" ]
-        },
-        {
           "Name": "Better Combat",
           "Description": "⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
           "Version": "1.8.5+1.20.1-fabric",

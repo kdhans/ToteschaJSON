@@ -716,7 +716,7 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "K01OU20C",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []

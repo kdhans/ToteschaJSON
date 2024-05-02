@@ -1,8 +1,8 @@
 {
   "Modpacks": [
     {
-      "Name": "The Catch Brew",
-      "ID": "TheCatchBrew",
+      "Name": "The Kitchen",
+      "ID": "TheKitchenSink",
       "ModpackVersion": "CB1201-512024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",

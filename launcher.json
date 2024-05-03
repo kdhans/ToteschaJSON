@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-522024",
+      "ModpackVersion": "KS1201-532024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -482,23 +482,6 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "e0M1UDsY" ]
-        },
-        {
-          "Name": "Bits And Chisels",
-          "Description": "Turn Blocks Into Small Bits With Chisels; Build All The Things",
-          "Version": "2.7.3",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/q8MC5tW2",
-          "ImageURL": "https://cdn.modrinth.com/data/q8MC5tW2/icon.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/q8MC5tW2/versions/kqHohJYy/bitsandchisels-2.7.3.jar",
-          "Filename": "bitsandchisels-2.7.3.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "q8MC5tW2",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": []
         },
         {
           "Name": "Bookshelf",
@@ -1737,7 +1720,7 @@
           "FileStage": "release",
           "ProjectID": "p19vrgc2",
           "ClientSide": true,
-          "ServerSide": false,
+          "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
         },
@@ -4348,7 +4331,7 @@
           "FileStage": "release",
           "ProjectID": "NWvsqJ2Z",
           "ClientSide": true,
-          "ServerSide": false,
+          "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "e0M1UDsY" ]
         },
@@ -6784,7 +6767,7 @@
           "RequiredFiles": [ "1eAoo2KR", "Ha28R6CL", "P7dR8mSH" ]
         }
       ],
-      "LastUpdated": "2024-05-02T20:30:47"
+      "LastUpdated": "2024-05-03T09:30:47"
     }
   ],
   "NewsImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png",

@@ -4177,20 +4177,20 @@
           "Description": "Totescha Minecraft Server",
           "Version": "532024",
           "MinecraftVersion": "1.20.1",
-          "URL": "https://onedrive.live.com/download?resid=D69D1199B1B5FB2C%21215967&authkey=!ACR7RcPYF1g1Lnc",
+          "URL": "https://kdhans.github.io/ToteschaJSON/servers.dat",
           "ImageURL": "",
-          "DownloadURL": "https://onedrive.live.com/download?resid=D69D1199B1B5FB2C%21215967&authkey=!ACR7RcPYF1g1Lnc",
+          "DownloadURL": "https://kdhans.github.io/ToteschaJSON/servers.dat",
           "Filename": "servers.dat",
           "InstallationLocation": "",
           "FileStage": "release",
           "ProjectID": null,
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": false,
           "RequiresZipExtraction": false,
           "RequiredFiles": null
         }
       ],
-      "LastUpdated": "2024-05-02T20:30:50"
+      "LastUpdated": "2024-05-03T20:30:50"
     },
     {
       "Name": "Vanilla Plus",

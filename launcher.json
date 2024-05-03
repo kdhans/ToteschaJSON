@@ -138,7 +138,7 @@
           "InstallationLocation": "mods",
           "FileStage": "beta",
           "ProjectID": "sdaSaQEz",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []

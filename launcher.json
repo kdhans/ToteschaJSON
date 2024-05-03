@@ -4171,6 +4171,23 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "servers.dat",
+          "Description": "Totescha Minecraft Server",
+          "Version": "532024",
+          "MinecraftVersion": "1.20.1",
+          "URL": "https://onedrive.live.com/download?resid=D69D1199B1B5FB2C%21215967&authkey=!ACR7RcPYF1g1Lnc",
+          "ImageURL": "",
+          "DownloadURL": "https://onedrive.live.com/download?resid=D69D1199B1B5FB2C%21215967&authkey=!ACR7RcPYF1g1Lnc",
+          "Filename": "servers.dat",
+          "InstallationLocation": "",
+          "FileStage": "release",
+          "ProjectID": null,
+          "ClientSide": false,
+          "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": null
         }
       ],
       "LastUpdated": "2024-05-02T20:30:50"

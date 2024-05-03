@@ -241,7 +241,7 @@
           "FileStage": "release",
           "ProjectID": "NWvsqJ2Z",
           "ClientSide": true,
-          "ServerSide": false,
+          "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "e0M1UDsY" ]
         },
@@ -6767,7 +6767,7 @@
           "RequiredFiles": [ "1eAoo2KR", "Ha28R6CL", "P7dR8mSH" ]
         }
       ],
-      "LastUpdated": "2024-05-03T09:30:47"
+      "LastUpdated": "2024-05-02T20:30:47"
     }
   ],
   "NewsImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png",

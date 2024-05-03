@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-532024-1",
+      "ModpackVersion": "KS1201-532024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4205,6 +4205,57 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
+        },
+        {
+          "Name": "Xaero's Minimap",
+          "Description": "Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.",
+          "Version": "24.1.1_Fabric_1.20",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/1bokaNcj",
+          "ImageURL": "https://cdn.modrinth.com/data/1bokaNcj/80eb00784e250b99fb1789da35869387d14d5637.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/1bokaNcj/versions/C2jbx7JG/Xaeros_Minimap_24.1.1_Fabric_1.20.jar",
+          "Filename": "Xaeros_Minimap_24.1.1_Fabric_1.20.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "1bokaNcj",
+          "ClientSide": true,
+          "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Xaero's World Map",
+          "Description": "Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.",
+          "Version": "1.38.4_Fabric_1.20",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/NcUtCpym",
+          "ImageURL": "https://cdn.modrinth.com/data/NcUtCpym/80eb00784e250b99fb1789da35869387d14d5637.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/NcUtCpym/versions/GOh0fFoJ/XaerosWorldMap_1.38.4_Fabric_1.20.jar",
+          "Filename": "XaerosWorldMap_1.38.4_Fabric_1.20.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "NcUtCpym",
+          "ClientSide": true,
+          "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Open Parties and Claims",
+          "Description": "Adds the ability to claim chunks and make player parties, integrates with Xaero's Minimap and World Map",
+          "Version": "fabric-1.20.1-0.22.0",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/gF3BGWvG",
+          "ImageURL": "https://cdn.modrinth.com/data/gF3BGWvG/410c5443b268912b11709e7d03dd9ec3fda38ea5.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/gF3BGWvG/versions/cH8Mmlny/open-parties-and-claims-fabric-1.20.1-0.22.0.jar",
+          "Filename": "open-parties-and-claims-fabric-1.20.1-0.22.0.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "beta",
+          "ProjectID": "gF3BGWvG",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH", "ohNO6lps" ]
         }
       ],
       "LastUpdated": "2024-05-02T20:30:50"
@@ -6801,7 +6852,7 @@
           "RequiredFiles": [ "1eAoo2KR", "Ha28R6CL", "P7dR8mSH" ]
         }
       ],
-      "LastUpdated": "2024-05-03T08:30:47"
+      "LastUpdated": "2024-05-02T20:30:47"
     }
   ],
   "NewsImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png",

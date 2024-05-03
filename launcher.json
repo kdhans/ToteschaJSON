@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-532024",
+      "ModpackVersion": "KS1201-532024-1",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4171,6 +4171,40 @@
           "ServerSide": false,
           "RequiresZipExtraction": false,
           "RequiredFiles": null
+        },
+        {
+          "Name": "WTHIT",
+          "Description": "What the hell is that?",
+          "Version": "fabric-8.10.0",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/6AQIaxuO",
+          "ImageURL": "https://cdn.modrinth.com/data/6AQIaxuO/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/6AQIaxuO/versions/6mLnUPGk/wthit-fabric-8.10.0.jar",
+          "Filename": "wthit-fabric-8.10.0.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "6AQIaxuO",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH", "ftdbN0KK" ]
+        },
+        {
+          "Name": "bad packets",
+          "Description": "Bad Packets allows packet messaging between different modding platforms.",
+          "Version": "fabric-0.4.3",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/ftdbN0KK",
+          "ImageURL": "https://cdn.modrinth.com/data/ftdbN0KK/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/ftdbN0KK/versions/JjLWLyDz/badpackets-fabric-0.4.3.jar",
+          "Filename": "badpackets-fabric-0.4.3.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "ftdbN0KK",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
         }
       ],
       "LastUpdated": "2024-05-02T20:30:50"
@@ -6767,7 +6801,7 @@
           "RequiredFiles": [ "1eAoo2KR", "Ha28R6CL", "P7dR8mSH" ]
         }
       ],
-      "LastUpdated": "2024-05-02T20:30:47"
+      "LastUpdated": "2024-05-03T08:30:47"
     }
   ],
   "NewsImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png",

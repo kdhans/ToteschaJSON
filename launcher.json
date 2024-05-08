@@ -4358,6 +4358,40 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "5aaWibi9", "9s6osm5g" ]
+        },
+        {
+          "Name": "Mythic Mounts",
+          "Description": "Befriend legendary creatures to accompany you across the world!",
+          "Version": "1.20.1-7.2",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/xP7vOoRA",
+          "ImageURL": "https://cdn.modrinth.com/data/xP7vOoRA/ddd765cbbbdc7bd88ee361fd3f8fed5dd0236165.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/xP7vOoRA/versions/a9GfsY3e/mythic-mounts-1.20.1-7.2.jar",
+          "Filename": "mythic-mounts-1.20.1-7.2.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "xP7vOoRA",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "nU0bVIaL", "8BmcQJ2H" ]
+        },
+        {
+          "Name": "Lunar",
+          "Description": "Adds lunar events to Minecraft",
+          "Version": "0.1.10",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/PwhlJMsW",
+          "ImageURL": "https://cdn.modrinth.com/data/PwhlJMsW/7fd8cc2106a87d4165b307b9e5215ea83b6cbe30.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/PwhlJMsW/versions/TEJWFv2d/Lunar-fabric-1.20.1-0.1.10.jar",
+          "Filename": "Lunar-fabric-1.20.1-0.1.10.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "alpha",
+          "ProjectID": "PwhlJMsW",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "9s6osm5g", "P7dR8mSH" ]
         }
       ],
       "LastUpdated": "2024-05-08T07:21:51"
@@ -6941,5 +6975,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/8:\n+ Added Hats\n+ Added server datapack for BoTW Tower structures\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/8:\n+ Added Hats\n+ Added server datapack for BoTW Tower structures\n+ Added Mythic Mounts\n+ Added Lunar Events\nServer restart schedule: Daily at 8AM PST"
 }

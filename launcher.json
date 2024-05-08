@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-582024",
+      "ModpackVersion": "KS1201-582024-1",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4394,7 +4394,7 @@
           "RequiredFiles": [ "9s6osm5g", "P7dR8mSH" ]
         }
       ],
-      "LastUpdated": "2024-05-08T07:21:51"
+      "LastUpdated": "2024-05-08T10:50:03"
     },
     {
       "Name": "Vanilla Plus",

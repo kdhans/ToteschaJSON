@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-582024-2",
+      "ModpackVersion": "KS1201-582024-3",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4426,9 +4426,43 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "lhGA9TYQ" ]
+        },
+        {
+          "Name": "When Dungeons Arise",
+          "Description": "Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!",
+          "Version": "2.1.57-1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/8DfbfASn",
+          "ImageURL": "https://cdn.modrinth.com//data/8DfbfASn/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/8DfbfASn/versions/Vd5XOXlj/DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+          "Filename": "DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "8DfbfASn",
+          "ClientSide": false,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
+        },
+        {
+          "Name": "When Dungeons Arise: Seven Seas",
+          "Description": "Elegant - and likely hostile - vessels lost in the seven seas...",
+          "Version": "1.0.2",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/ZsrrjDbP",
+          "ImageURL": "https://cdn.modrinth.com/data/ZsrrjDbP/18ddad0287fa98f3056db4baa187fecd0c28a6ca.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/ZsrrjDbP/versions/ZQjAxRej/DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+          "Filename": "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "ZsrrjDbP",
+          "ClientSide": false,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
         }
       ],
-      "LastUpdated": "2024-05-08T10:57:43"
+      "LastUpdated": "2024-05-08T11:22:23"
     },
     {
       "Name": "Vanilla Plus",
@@ -7009,5 +7043,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/8:\n+ Added Hats\n+ Added server datapack for BoTW Tower structures\n+ Added Mythic Mounts\n+ Added Lunar Events\n+ Added Beach Party\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/8:\n+ Added Hats\n+ Added server datapack for BoTW Tower structures\n+ Added Mythic Mounts\n+ Added Lunar Events\n+ Added Beach Party\n+ Added When Dungeons Arise & Seven Seas\nServer restart schedule: Daily at 8AM PST"
 }

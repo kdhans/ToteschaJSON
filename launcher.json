@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-572024",
+      "ModpackVersion": "KS1201-582024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4341,9 +4341,26 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Simple Hats",
+          "Description": "Simple Hats is an expandable cosmetic hat mod that allows users to define their own hats with options such as variants, dyes, particle effects, and seasons.",
+          "Version": "1.20.1-0.2.4",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/iSkQCp6b",
+          "ImageURL": "https://cdn.modrinth.com/data/iSkQCp6b/1e90348385dc5ee0200c402ead87075810c2c05a.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/iSkQCp6b/versions/NawzMwLe/simplehats-fabric-1.20.1-0.2.4.jar",
+          "Filename": "simplehats-fabric-1.20.1-0.2.4.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "iSkQCp6b",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "5aaWibi9", "9s6osm5g" ]
         }
       ],
-      "LastUpdated": "2024-05-07T09:22:24"
+      "LastUpdated": "2024-05-08T07:21:51"
     },
     {
       "Name": "Vanilla Plus",
@@ -4500,23 +4517,6 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "NWvsqJ2Z",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "e0M1UDsY" ]
-        },
-        {
-          "Name": "Automatic Doors",
-          "Description": "🚪 Automatically opens doors around the player and closes them with a configurable delay.",
-          "Version": "1.20.1-4.6-fabric+forge+neo",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/PGBgocFc",
-          "ImageURL": "https://cdn.modrinth.com/data/PGBgocFc/icon.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/PGBgocFc/versions/jp6z4kMu/automaticdoors-1.20.1-4.6.jar",
-          "Filename": "automaticdoors-1.20.1-4.6.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "PGBgocFc",
           "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
@@ -6940,6 +6940,6 @@
       "LastUpdated": "2024-05-02T20:30:47"
     }
   ],
-  "NewsImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Rickrolling_QR_code.png",
-  "News": "Welcome to modded Minecraft!\r\nThis launcher is stupid new, so expect bugs and report them on the discord channel.\r\n\r\nIn the meantime, try it out! Select the modpack and press launch to go!"
+  "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
+  "News": "[b][u][size=5]Welcome to Modded Minecraft![/size][/u][/b]\r\n\r\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\r\nLatest updates for 5/8:\r\n[list][*]Added Hats\r\n[*]Added server datapack for BoTW Tower structures[/list]\r\nServer restart schedule: Daily at 8AM PST"
 }

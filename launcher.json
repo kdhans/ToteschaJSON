@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-582024-1",
+      "ModpackVersion": "KS1201-582024-2",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4392,9 +4392,43 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "9s6osm5g", "P7dR8mSH" ]
+        },
+        {
+          "Name": "[Let's Do] Beachparty",
+          "Description": "Get your Suncream out! We're going to the beach.",
+          "Version": "1.1.5",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/GyKzAh3l",
+          "ImageURL": "https://cdn.modrinth.com/data/GyKzAh3l/12ab3857e990c5cbd3b4b69425046ae26cf70219.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/GyKzAh3l/versions/Ae00krmR/letsdo-beachparty-fabric-1.1.5.jar",
+          "Filename": "letsdo-beachparty-fabric-1.1.5.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "GyKzAh3l",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "4XJZeZbM", "lhGA9TYQ" ]
+        },
+        {
+          "Name": "[Let's Do] API",
+          "Description": "A Library for Forge and Fabric with utilities such as Render Features, Recipe Books and Wood API",
+          "Version": "1.2.11",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/4XJZeZbM",
+          "ImageURL": "https://cdn.modrinth.com/data/4XJZeZbM/01a4832b479fa718f6b68c10000e56078cb013a6.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/4XJZeZbM/versions/ovLpJk3c/letsdo-API-fabric-1.2.11-fabric.jar",
+          "Filename": "letsdo-API-fabric-1.2.11-fabric.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "4XJZeZbM",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "lhGA9TYQ" ]
         }
       ],
-      "LastUpdated": "2024-05-08T10:50:03"
+      "LastUpdated": "2024-05-08T10:57:43"
     },
     {
       "Name": "Vanilla Plus",
@@ -6975,5 +7009,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/8:\n+ Added Hats\n+ Added server datapack for BoTW Tower structures\n+ Added Mythic Mounts\n+ Added Lunar Events\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/8:\n+ Added Hats\n+ Added server datapack for BoTW Tower structures\n+ Added Mythic Mounts\n+ Added Lunar Events\n+ Added Beach Party\nServer restart schedule: Daily at 8AM PST"
 }

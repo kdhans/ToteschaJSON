@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-592024-3",
+      "ModpackVersion": "KS1201-592024-4",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4666,7 +4666,7 @@
           "RequiredFiles": [ "8BmcQJ2H", "Ha28R6CL", "P7dR8mSH" ]
         }
       ],
-      "LastUpdated": "2024-05-09T12:00:33"
+      "LastUpdated": "2024-05-09T12:11:13"
     },
     {
       "Name": "Vanilla Plus",
@@ -7247,5 +7247,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/9:\n+ Added Simply Skills, RightClickHarvest, Actually Additions, NiftyCarts, Small Ships, Gliders, Aquamirae and Hybrid Aquatic\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/9:\n+ Added Simply Skills, RightClickHarvest, Actually Additions, NiftyCarts, Small Ships, Gliders, Aquamirae, Hybrid Aquatic and Immersive Melodies\nServer restart schedule: Daily at 8AM PST"
 }

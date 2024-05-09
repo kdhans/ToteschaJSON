@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-592024-4",
+      "ModpackVersion": "KS1201-592024-5",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4439,7 +4439,7 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "8DfbfASn",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
@@ -4456,7 +4456,7 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "ZsrrjDbP",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
@@ -4507,7 +4507,7 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "Cnejf5xM",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "IYY9Siz8", "P7dR8mSH" ]

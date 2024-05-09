@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-592024-5",
+      "ModpackVersion": "KS1201-592024-A",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4664,9 +4664,43 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "8BmcQJ2H", "Ha28R6CL", "P7dR8mSH" ]
+        },
+        {
+          "Name": "Handcrafted",
+          "Description": "Make your house a home!",
+          "Version": "3.0.6",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/pJmCFF0p",
+          "ImageURL": "https://cdn.modrinth.com/data/pJmCFF0p/e89faefc522d601db2a5fd70136f37ef7ce18569.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/pJmCFF0p/versions/NRw0CDAc/handcrafted-fabric-1.20.1-3.0.6.jar",
+          "Filename": "handcrafted-fabric-1.20.1-3.0.6.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "pJmCFF0p",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "G1hIVOrD", "P7dR8mSH" ]
+        },
+        {
+          "Name": "Immersive Paintings",
+          "Description": "Drag and drop, pixelate and hang up beautiful art. On servers too.",
+          "Version": "0.6.7+1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/6txNkua3",
+          "ImageURL": "https://cdn.modrinth.com/data/6txNkua3/f38482645229d4469a1908aad3e07a46fb4ad333.jpg",
+          "DownloadURL": "https://cdn.modrinth.com/data/6txNkua3/versions/UjL11A4h/immersive_paintings-0.6.7%2B1.20.1-fabric.jar",
+          "Filename": "immersive_paintings-0.6.7+1.20.1-fabric.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "6txNkua3",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
         }
       ],
-      "LastUpdated": "2024-05-09T12:11:13"
+      "LastUpdated": "2024-05-09T14:50:15"
     },
     {
       "Name": "Vanilla Plus",
@@ -7247,5 +7281,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/9:\n+ Added Simply Skills, RightClickHarvest, Actually Additions, NiftyCarts, Small Ships, Gliders, Aquamirae, Hybrid Aquatic and Immersive Melodies\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/9:\n+ Added Simply Skills, RightClickHarvest, Actually Additions, NiftyCarts, Small Ships, Gliders, Aquamirae, Hybrid Aquatic, Immersive Melodies, HandCrafted and Immersive Paintings\nServer restart schedule: Daily at 8AM PST"
 }

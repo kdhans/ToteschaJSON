@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-592024",
+      "ModpackVersion": "KS1201-592024-2",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4664,6 +4664,23 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "8BmcQJ2H", "Ha28R6CL", "P7dR8mSH" ]
+        },
+        {
+          "Name": "Sound Physics Remastered",
+          "Description": "A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.",
+          "Version": "fabric-1.20.1-1.3.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/qyVF9oeo",
+          "ImageURL": "https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/qyVF9oeo/versions/GdHd0uVw/sound-physics-remastered-fabric-1.20.1-1.3.1.jar",
+          "Filename": "sound-physics-remastered-fabric-1.20.1-1.3.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "alpha",
+          "ProjectID": "qyVF9oeo",
+          "ClientSide": true,
+          "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
         }
       ],
       "LastUpdated": "2024-05-09T11:31:14"
@@ -7247,5 +7264,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/9:\n+ Added Simply Skills, RightClickHarvest, Actually Additions, NiftyCarts, Small Ships, Gliders, Aquamirae and Hybrid Aquatic\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/9:\n+ Added Simply Skills, RightClickHarvest, Actually Additions, NiftyCarts, Small Ships, Gliders, Aquamirae, Hybrid Aquatic and Sound Physics Remastered\nServer restart schedule: Daily at 8AM PST"
 }

@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-592024-A",
+      "ModpackVersion": "KS1201-5102024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4258,23 +4258,6 @@
           "RequiredFiles": [ "P7dR8mSH", "ohNO6lps" ]
         },
         {
-          "Name": "Gravestones",
-          "Description": "A gravestones mod for fabric with tons of config options, an API, and more! ",
-          "Version": "v1.15",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/ssUbhMkL",
-          "ImageURL": "https://cdn.modrinth.com/data/ssUbhMkL/icon.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/ssUbhMkL/versions/Uw9uAQaY/gravestones-v1.15.jar",
-          "Filename": "gravestones-v1.15.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "ssUbhMkL",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "P7dR8mSH" ]
-        },
-        {
           "Name": "Inventory Profiles Next",
           "Description": "Take control over you inventory. Sort. Move matching Items. Throw all. Locked slots. Gear sets! And much more.",
           "Version": "fabric-1.20.1-1.10.10",
@@ -4698,9 +4681,26 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
+        },
+        {
+          "Name": "You're in Grave Danger",
+          "Description": "A mod focused around death. Will add graves to minecraft",
+          "Version": "2.0.0-beta.11",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/HnD1GX6e",
+          "ImageURL": "https://cdn.modrinth.com/data/HnD1GX6e/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/HnD1GX6e/versions/LXbUVLOk/youre-in-grave-danger-2.0.0-beta.11.jar",
+          "Filename": "youre-in-grave-danger-2.0.0-beta.11.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "beta",
+          "ProjectID": "HnD1GX6e",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "9s6osm5g", "P7dR8mSH" ]
         }
       ],
-      "LastUpdated": "2024-05-09T14:50:15"
+      "LastUpdated": "2024-05-10T10:34:55"
     },
     {
       "Name": "Vanilla Plus",
@@ -7281,5 +7281,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/9:\n+ Added Simply Skills, RightClickHarvest, Actually Additions, NiftyCarts, Small Ships, Gliders, Aquamirae, Hybrid Aquatic, Immersive Melodies, HandCrafted and Immersive Paintings\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/10:\n+ Replaced Gravestones with \"You're in Grave Danger\"\nServer restart schedule: Daily at 8AM PST"
 }

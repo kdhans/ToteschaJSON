@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-5102024",
+      "ModpackVersion": "KS1201-5122024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4698,9 +4698,94 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "9s6osm5g", "P7dR8mSH" ]
+        },
+        {
+          "Name": "myLoot",
+          "Description": "Instanced loot per player for a better looting experience on Multiplayer servers",
+          "Version": "4.0.3-1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/kHc6jKsv",
+          "ImageURL": "https://cdn.modrinth.com/data/kHc6jKsv/62c6de58c314c2f0df2904da9f31110b1bc8239e.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/kHc6jKsv/versions/l74cjwnw/myloot-4.0.3-1.20.1.jar",
+          "Filename": "myloot-4.0.3-1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "kHc6jKsv",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "40ytxGF2", "P7dR8mSH" ]
+        },
+        {
+          "Name": "SpoornPacks",
+          "Description": "API Library for automagically generating Resource files and injecting them as a Resource Pack",
+          "Version": "5.0-1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/40ytxGF2",
+          "ImageURL": "https://cdn.modrinth.com/data/40ytxGF2/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/40ytxGF2/versions/NSN0Yoyz/spoornpacks-5.0-1.20.1.jar",
+          "Filename": "spoornpacks-5.0-1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "40ytxGF2",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Lankreren's Daggers",
+          "Description": "A simple throwable dagger mod made for AnimateCraft: Lankeren",
+          "Version": "1.1.2",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/uWkBQHaL",
+          "ImageURL": "https://cdn.modrinth.com/data/uWkBQHaL/7ececeffa6519cc2077b7d2570ac6a2bd4532ffc.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/uWkBQHaL/versions/D3RLbATj/lankerendagger-1.1.2.jar",
+          "Filename": "lankerendagger-1.1.2.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "uWkBQHaL",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
+        },
+        {
+          "Name": "Distant Horizons",
+          "Description": "See farther without turning your game into a slide show",
+          "Version": "2.0.1-a-1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/uCdwusMi",
+          "ImageURL": "https://cdn.modrinth.com/data/uCdwusMi/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar",
+          "Filename": "DistantHorizons-2.0.1-a-1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "alpha",
+          "ProjectID": "uCdwusMi",
+          "ClientSide": true,
+          "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
+        },
+        {
+          "Name": "Ender Dragon Fight Remastered",
+          "Description": "An up in difficulty for Minecraft's final boss.\nWith more health and more attacks, the fight finally feels like the final confrontation.",
+          "Version": "4.3+mod",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/HQsBdHGd",
+          "ImageURL": "https://cdn.modrinth.com/data/HQsBdHGd/b174fc7d721709a303efd871f2ba78793d4c96ea.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/HQsBdHGd/versions/sJX8dbua/edf-remastered-4.3.jar",
+          "Filename": "edf-remastered-4.3.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "HQsBdHGd",
+          "ClientSide": false,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
         }
       ],
-      "LastUpdated": "2024-05-10T10:34:55"
+      "LastUpdated": "2024-05-12T07:35:53"
     },
     {
       "Name": "Vanilla Plus",
@@ -7281,5 +7366,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/10:\n+ Replaced Gravestones with \"You're in Grave Danger\"\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/12:\n+ CALL YOUR MOTHER FIGURE AND WISH THEM A HAPPY DAY.\n+ Added throwable daggers, myLoot, Ender Dragon Fight Remastered, and Distant Horizons\nServer restart schedule: Daily at 8AM PST"
 }

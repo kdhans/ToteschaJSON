@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-5122024",
+      "ModpackVersion": "KS1201-5122024-1",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4751,23 +4751,6 @@
           "RequiredFiles": []
         },
         {
-          "Name": "Distant Horizons",
-          "Description": "See farther without turning your game into a slide show",
-          "Version": "2.0.1-a-1.20.1",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/uCdwusMi",
-          "ImageURL": "https://cdn.modrinth.com/data/uCdwusMi/icon.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/uCdwusMi/versions/fAVxiMK6/DistantHorizons-2.0.1-a-1.20.1.jar",
-          "Filename": "DistantHorizons-2.0.1-a-1.20.1.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "alpha",
-          "ProjectID": "uCdwusMi",
-          "ClientSide": true,
-          "ServerSide": false,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": []
-        },
-        {
           "Name": "Ender Dragon Fight Remastered",
           "Description": "An up in difficulty for Minecraft's final boss.\nWith more health and more attacks, the fight finally feels like the final confrontation.",
           "Version": "4.3+mod",
@@ -7366,5 +7349,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngfind.com/pngs/b/565-5655692_minecraft-download-png-image-grass-transparent-png.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/12:\n+ CALL YOUR MOTHER FIGURE AND WISH THEM A HAPPY DAY.\n+ Added throwable daggers, myLoot, Ender Dragon Fight Remastered, and Distant Horizons\nServer restart schedule: Daily at 8AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest updates for 5/12:\n+ CALL YOUR MOTHER FIGURE AND WISH THEM A HAPPY DAY.\n+ Added throwable daggers, myLoot, and Ender Dragon Fight Remastered\nServer restart schedule: Daily at 8AM PST"
 }

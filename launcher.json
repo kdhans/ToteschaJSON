@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-5122024-1",
+      "ModpackVersion": "KS1201-5172024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4766,9 +4766,94 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
+        },
+        {
+          "Name": "Show Me Your Skin!",
+          "Description": "A mod to hide or customize armor rendering. ",
+          "Version": "1.9.0+1.20",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/bD7YqcA3",
+          "ImageURL": "https://cdn.modrinth.com/data/bD7YqcA3/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/bD7YqcA3/versions/acq6mVBP/show-me-your-skin-1.9.0%2B1.20.jar",
+          "Filename": "show-me-your-skin-1.9.0+1.20.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "bD7YqcA3",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "IwCkru1D", "P7dR8mSH" ]
+        },
+        {
+          "Name": "CICADA",
+          "Description": "Confusing, Interesting and Considerably Agnostic Development Aid",
+          "Version": "0.7.2+1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/IwCkru1D",
+          "ImageURL": "https://cdn.modrinth.com/data/IwCkru1D/53eee5642c7c426729b8313628b83f8513322484.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/IwCkru1D/versions/WpV6Y82S/cicada-lib-0.7.2%2B1.20.1.jar",
+          "Filename": "cicada-lib-0.7.2+1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "IwCkru1D",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Bountiful",
+          "Description": "Adds bounty boards, giving rewards for collecting different blocks and items.",
+          "Version": "6.0.3+1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/BpwWFOVM",
+          "ImageURL": "https://cdn.modrinth.com/data/BpwWFOVM/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/BpwWFOVM/versions/qFqfFMMO/Bountiful-6.0.3%2B1.20.1-fabric.jar",
+          "Filename": "Bountiful-6.0.3+1.20.1-fabric.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "BpwWFOVM",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "Ha28R6CL", "P7dR8mSH", "zfbCkvdZ" ]
+        },
+        {
+          "Name": "Kambrik",
+          "Description": "A Kotlin Library Mod",
+          "Version": "6.1.1+1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/zfbCkvdZ",
+          "ImageURL": "https://cdn.modrinth.com/data/zfbCkvdZ/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/zfbCkvdZ/versions/SqVitkHr/Kambrik-6.1.1%2B1.20.1-fabric.jar",
+          "Filename": "Kambrik-6.1.1+1.20.1-fabric.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "zfbCkvdZ",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "Ha28R6CL", "P7dR8mSH" ]
+        },
+        {
+          "Name": "Mermod",
+          "Description": "Mermod adds a magical necklace that transforms you into a merperson in water!",
+          "Version": "2.41",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/ORiydwz3",
+          "ImageURL": "https://cdn.modrinth.com/data/ORiydwz3/c79621d71b7dca322f2a94cadada0862e8a37482.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/ORiydwz3/versions/VBr1cow4/mermod-fabric-2.41.jar",
+          "Filename": "mermod-fabric-2.41.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "ORiydwz3",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
         }
       ],
-      "LastUpdated": "2024-05-12T07:35:53"
+      "LastUpdated": "2024-05-17T14:46:32"
     },
     {
       "Name": "Vanilla Plus",
@@ -7349,5 +7434,5 @@
     }
   ],
   "NewsImageUrl": "https://pngimg.com/uploads/minecraft/minecraft_PNG17.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest news\n- No server updates will occur this weekend (5/17-5/20).\n- Daily restart schedule: 9AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest news\n- Added Mermod, Bountiful and Show Me Your Skin \n- No server updates will occur this weekend (5/17-5/20).\n- Daily restart schedule: 9AM PST"
 }

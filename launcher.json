@@ -4762,7 +4762,7 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "HQsBdHGd",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
@@ -4881,7 +4881,7 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "Ab2GBNpI",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "9eGKb6K1" ]
@@ -4898,7 +4898,7 @@
           "InstallationLocation": "mods",
           "FileStage": "beta",
           "ProjectID": "Sh0YauEf",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "Nn8Wasaq" ]

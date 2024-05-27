@@ -4851,6 +4851,40 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
+        },
+        {
+          "Name": "Simple Voice Chat",
+          "Description": "A working voice chat in Minecraft!",
+          "Version": "fabric-1.20.1-2.5.15",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/9eGKb6K1",
+          "ImageURL": "https://cdn.modrinth.com/data/9eGKb6K1/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/9eGKb6K1/versions/nBaghNgP/voicechat-fabric-1.20.1-2.5.15.jar",
+          "Filename": "voicechat-fabric-1.20.1-2.5.15.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "9eGKb6K1",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
+        },
+        {
+          "Name": "Simple Voice Chat Radio",
+          "Description": "A server-side Simple Voice Chat addon mod for Fabric adding a radio block capable of streaming mp3 radio streams.",
+          "Version": "1.1.1+1.20.1.fabric",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/Ab2GBNpI",
+          "ImageURL": "https://cdn.modrinth.com/data/Ab2GBNpI/b38babab6cf547aaf68ae3be8712599838a16286.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/Ab2GBNpI/versions/XuO1bkpC/radio-1.1.1%2B1.20.1.fabric.jar",
+          "Filename": "radio-1.1.1+1.20.1.fabric.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "Ab2GBNpI",
+          "ClientSide": false,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "9eGKb6K1" ]
         }
       ],
       "LastUpdated": "2024-05-17T14:46:32"
@@ -7434,5 +7468,5 @@
     }
   ],
   "NewsImageUrl": "https://pngimg.com/uploads/minecraft/minecraft_PNG17.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest news\n- Check out our web map of The Kitchen Sink! http://tksmap.totescha.com\n- Stability test week! Play to your hearts content and report any issues to the discord channel. We'll not be adding new mods while we make sure everything works well together this week.\n- Daily restart schedule: 9AM PST"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest news\n- Check out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n- Added: Discord integration, Simple Voice Chat & Simple Voice Chat Radio. [b] Check your key bindings to edit voice chat configuration [/b]"
 }

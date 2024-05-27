@@ -4881,7 +4881,7 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "Ab2GBNpI",
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "9eGKb6K1" ]

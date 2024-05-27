@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KS1201-5272024",
+      "ModpackVersion": "KS1201-5172024",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4881,10 +4881,44 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "Ab2GBNpI",
-          "ClientSide": true,
+          "ClientSide": false,
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "9eGKb6K1" ]
+        },
+        {
+          "Name": "Simple Discord Link",
+          "Description": "A simple Minecraft -> Discord Chat Link bot with Whitelisting",
+          "Version": "1.20-3.0.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/Sh0YauEf",
+          "ImageURL": "https://cdn.modrinth.com/data/Sh0YauEf/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/Sh0YauEf/versions/rtVmg0Ey/SimpleDiscordLink-Combo-1.20-3.0.1.jar",
+          "Filename": "SimpleDiscordLink-Combo-1.20-3.0.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "beta",
+          "ProjectID": "Sh0YauEf",
+          "ClientSide": false,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "Nn8Wasaq" ]
+        },
+        {
+          "Name": "CraterLib",
+          "Description": "Library mod for HypherionSA and First Dark Development mods",
+          "Version": "1.20-1.1.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/Nn8Wasaq",
+          "ImageURL": "https://cdn.modrinth.com/data/Nn8Wasaq/a172c634683a11a2e9ae593e56eba7885743bb44.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/Nn8Wasaq/versions/1KHt2LQE/CraterLib-Fabric-1.20-1.1.1.jar",
+          "Filename": "CraterLib-Fabric-1.20-1.1.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "Nn8Wasaq",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
         }
       ],
       "LastUpdated": "2024-05-17T14:46:32"

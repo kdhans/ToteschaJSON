@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-pr1",
+      "ModpackVersion": "KSREFRESH-rel2",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -1387,12 +1387,12 @@
         {
           "Name": "Enchantment Descriptions",
           "Description": "Provides a way to get enchantment descriptions from enchanted books.",
-          "Version": "17.0.16",
+          "Version": "17.0.14",
           "MinecraftVersion": "1.20.1",
           "URL": "http://modrinth.com/mod/UVtY3ZAC",
           "ImageURL": "https://cdn.modrinth.com/data/UVtY3ZAC/d02779c67047e42cbc7893577cb9fb8865c785ab.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/Ndxl3lVQ/EnchantmentDescriptions-Fabric-1.20.1-17.0.16.jar",
-          "Filename": "EnchantmentDescriptions-Fabric-1.20.1-17.0.16.jar",
+          "DownloadURL": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/yWTmnP6Q/EnchantmentDescriptions-Fabric-1.20.1-17.0.14.jar",
+          "Filename": "EnchantmentDescriptions-Fabric-1.20.1-17.0.14.jar",
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "UVtY3ZAC",
@@ -5019,5 +5019,5 @@
     }
   ],
   "NewsImageUrl": "https://files.gamebanana.com/img/ico/sprays/4f0f50f16ce88.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\r\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\r\n\r\nLatest news\r\n- Check out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\r\n- ITS REFRESH TIME! "
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest news\n- Check out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n- ITS REFRESH TIME! "
 }

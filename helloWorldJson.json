@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-v2",
+      "ModpackVersion": "KSREFRESH-pr1",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -2373,12 +2373,12 @@
         {
           "Name": "Iris Shaders",
           "Description": "A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs",
-          "Version": "1.7.1+1.20.1",
+          "Version": "1.7.0+1.20.1",
           "MinecraftVersion": "1.20.1",
           "URL": "http://modrinth.com/mod/YL57xq9U",
           "ImageURL": "https://cdn.modrinth.com/data/YL57xq9U/dc558eece920db435f9823ce86de0c4cde89800b.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/YL57xq9U/versions/G5dd9TM4/iris-1.7.1%2Bmc1.20.1.jar",
-          "Filename": "iris-1.7.1+mc1.20.1.jar",
+          "DownloadURL": "https://cdn.modrinth.com/data/YL57xq9U/versions/KHQ2Hnpt/iris-1.7.0%2Bmc1.20.1.jar",
+          "Filename": "iris-1.7.0+mc1.20.1.jar",
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "YL57xq9U",

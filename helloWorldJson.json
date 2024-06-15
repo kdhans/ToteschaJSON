@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-rel4",
+      "ModpackVersion": "KSREFRESH-rel5",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -5004,6 +5004,23 @@
           "ServerSide": false,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "1eAoo2KR", "P7dR8mSH" ]
+        },
+        {
+          "Name": "servers.dat",
+          "Description": "Totescha Minecraft Server",
+          "Version": "532024",
+          "MinecraftVersion": "1.20.1",
+          "URL": "https://onedrive.live.com/download?resid=D69D1199B1B5FB2C%21215967&authkey=!ACR7RcPYF1g1Lnc",
+          "ImageURL": "",
+          "DownloadURL": "https://onedrive.live.com/download?resid=D69D1199B1B5FB2C%21215967&authkey=!ACR7RcPYF1g1Lnc",
+          "Filename": "servers.dat",
+          "InstallationLocation": "",
+          "FileStage": "release",
+          "ProjectID": null,
+          "ClientSide": false,
+          "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": null
         }
       ],
       "LastUpdated": "2024-06-15T12:34:51"
@@ -5019,5 +5036,5 @@
     }
   ],
   "NewsImageUrl": "https://files.gamebanana.com/img/ico/sprays/4f0f50f16ce88.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nFeel free to make mod suggestions on the [b]#mod-suggestions[/b] discord page!\n\nLatest news\n- Check out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n- ITS REFRESH TIME! "
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- ITS REFRESH TIME! "
 }

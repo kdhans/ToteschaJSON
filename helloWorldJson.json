@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-rel3",
+      "ModpackVersion": "KSREFRESH-rel4",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -4991,12 +4991,12 @@
         {
           "Name": "Zoomify",
           "Description": "A zoom mod with infinite customizability.",
-          "Version": "2.13.5+1.20.1",
+          "Version": "2.11.2",
           "MinecraftVersion": "1.20.1",
           "URL": "http://modrinth.com/mod/w7ThoJFB",
           "ImageURL": "https://cdn.modrinth.com/data/w7ThoJFB/25d48c335340c12566044c8f35df5102e72dc06c.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/w7ThoJFB/versions/66iHgfN8/Zoomify-2.13.5%2B1.20.1.jar",
-          "Filename": "Zoomify-2.13.5+1.20.1.jar",
+          "DownloadURL": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gZr7EykF/Zoomify-2.11.2.jar",
+          "Filename": "Zoomify-2.11.2.jar",
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "w7ThoJFB",

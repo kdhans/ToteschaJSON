@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-rel7",
+      "ModpackVersion": "KSREFRESH-rel8",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -326,7 +326,7 @@
           "FileStage": "release",
           "ProjectID": "NWvsqJ2Z",
           "ClientSide": true,
-          "ServerSide": false,
+          "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "e0M1UDsY" ]
         },
@@ -1907,7 +1907,7 @@
           "FileStage": "release",
           "ProjectID": "p19vrgc2",
           "ClientSide": true,
-          "ServerSide": false,
+          "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
         },
@@ -5023,24 +5023,41 @@
           "RequiredFiles": [ "e0M1UDsY" ]
         },
         {
-          "Name": "Zoomify",
-          "Description": "A zoom mod with infinite customizability.",
-          "Version": "2.11.2",
+          "Name": "Applied Energistics 2",
+          "Description": "AE2: A popular automation and storage mod",
+          "Version": "15.2.0",
           "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/w7ThoJFB",
-          "ImageURL": "https://cdn.modrinth.com/data/w7ThoJFB/25d48c335340c12566044c8f35df5102e72dc06c.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/w7ThoJFB/versions/gZr7EykF/Zoomify-2.11.2.jar",
-          "Filename": "Zoomify-2.11.2.jar",
+          "URL": "http://modrinth.com/mod/XxWD5pD3",
+          "ImageURL": "https://cdn.modrinth.com/data/XxWD5pD3/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/XxWD5pD3/versions/qpG9cRjY/appliedenergistics2-fabric-15.2.0.jar",
+          "Filename": "appliedenergistics2-fabric-15.2.0.jar",
           "InstallationLocation": "mods",
           "FileStage": "release",
-          "ProjectID": "w7ThoJFB",
+          "ProjectID": "XxWD5pD3",
           "ClientSide": true,
-          "ServerSide": false,
+          "ServerSide": true,
           "RequiresZipExtraction": false,
-          "RequiredFiles": [ "1eAoo2KR", "P7dR8mSH" ]
+          "RequiredFiles": []
+        },
+        {
+          "Name": "Polymorphic Energistics",
+          "Description": "Polymorph support for Applied Energistics 2.",
+          "Version": "fabric-0.1.1-1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/VS1a14jA",
+          "ImageURL": "https://cdn.modrinth.com/data/VS1a14jA/b35afd3e7566bb95b1c01871066ba6e259c32074.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/VS1a14jA/versions/YBPDqGX1/polyeng-fabric-0.1.1-1.20.1.jar",
+          "Filename": "polyeng-fabric-0.1.1-1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "VS1a14jA",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "tagwiZkJ", "XxWD5pD3" ]
         }
       ],
-      "LastUpdated": "2024-06-15T12:34:51"
+      "LastUpdated": "2024-06-15T23:09:31"
     },
     {
       "Name": "Vanilla",

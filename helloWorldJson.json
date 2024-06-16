@@ -3895,7 +3895,7 @@
           "InstallationLocation": "",
           "FileStage": "release",
           "ProjectID": null,
-          "ClientSide": false,
+          "ClientSide": true,
           "ServerSide": false,
           "RequiresZipExtraction": false,
           "RequiredFiles": null

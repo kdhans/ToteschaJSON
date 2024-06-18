@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-final",
+      "ModpackVersion": "KSREFRESH-v618241000",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -3895,8 +3895,25 @@
           "InstallationLocation": "",
           "FileStage": "release",
           "ProjectID": null,
-          "ClientSide": true,
+          "ClientSide": false,
           "ServerSide": false,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": null
+        },
+        {
+          "Name": "Chisels and Bits",
+          "Description": "Chisels and Bits is a Minecraft Mod which allows you to cut the large blocks that make your world, and place the little cuts back down. In any way you like.",
+          "Version": "1.4.148",
+          "MinecraftVersion": "1.20.1",
+          "URL": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric",
+          "ImageURL": "",
+          "DownloadURL": "https://mediafilez.forgecdn.net/files/5203/365/chisels-and-bits-fabric-1.4.148.jar",
+          "Filename": "chisels-and-bits-fabric-1.4.148.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": null,
+          "ClientSide": true,
+          "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": null
         },
@@ -5070,5 +5087,5 @@
     }
   ],
   "NewsImageUrl": "https://files.gamebanana.com/img/ico/sprays/4f0f50f16ce88.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- ITS REFRESH TIME! "
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Added Chisels and Bits for Fabric!"
 }

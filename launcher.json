@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-v618241000",
+      "ModpackVersion": "KSREFRESH-v621240900",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -5072,6 +5072,40 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "tagwiZkJ", "XxWD5pD3" ]
+        },
+        {
+          "Name": "Fancy Dyes",
+          "Description": "Adds special dyes that can be used to customize your equipment.",
+          "Version": "2.2.2",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/weDXQCzq",
+          "ImageURL": "https://cdn.modrinth.com/data/weDXQCzq/05abe1c2a85c25b24c57a5d8097738e475101623.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/weDXQCzq/versions/RBNMn6sc/fancydyes-2.2.2.jar",
+          "Filename": "fancydyes-2.2.2.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "weDXQCzq",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "lhGA9TYQ" ]
+        },
+        {
+          "Name": "Enchant the Rainbow",
+          "Description": "Choose the enchantment glint color for their enchanted items!",
+          "Version": "1.3.0",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/ZAglfWbG",
+          "ImageURL": "https://cdn.modrinth.com/data/ZAglfWbG/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/ZAglfWbG/versions/zMm7wtI0/enchant-the-rainbow-1.3.0%2B1.20.1.jar",
+          "Filename": "enchant-the-rainbow-1.3.0+1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "ZAglfWbG",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
         }
       ],
       "LastUpdated": "2024-06-15T23:09:31"
@@ -5086,6 +5120,6 @@
       "LastUpdated": "2024-05-01T16:53:20"
     }
   ],
-  "NewsImageUrl": "https://files.gamebanana.com/img/ico/sprays/4f0f50f16ce88.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Added Chisels and Bits for Fabric!"
+  "NewsImageUrl": "https://www.pngall.com/wp-content/uploads/2016/03/Minecraft-3D-Character-PNG.png",
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Added Enchant the Rainbow and Fancy Dyes"
 }

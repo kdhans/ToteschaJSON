@@ -263,6 +263,23 @@
           "RequiredFiles": [ "e0M1UDsY" ]
         },
         {
+          "Name": "Applied Energistics 2",
+          "Description": "AE2: A popular automation and storage mod",
+          "Version": "15.2.0",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/XxWD5pD3",
+          "ImageURL": "https://cdn.modrinth.com/data/XxWD5pD3/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/XxWD5pD3/versions/qpG9cRjY/appliedenergistics2-fabric-15.2.0.jar",
+          "Filename": "appliedenergistics2-fabric-15.2.0.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "XxWD5pD3",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": []
+        },
+        {
           "Name": "Aquamirae",
           "Description": "Ship graveyard with terrible deep sea creatures!",
           "Version": "6",
@@ -482,6 +499,23 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "e0M1UDsY" ]
+        },
+        {
+          "Name": "Better Dogs x Doggy Talents Next",
+          "Description": "This mod adds all but the special dog breeds from the Better Dogs resource pack to the Doggy Talents Next mod as selectable skins..",
+          "Version": "1.2.2",
+          "MinecraftVersion": "1.20.1",
+          "URL": "https://legacy.curseforge.com/minecraft/mc-mods/better-dogs-x-doggy-talents-next/",
+          "ImageURL": "",
+          "DownloadURL": "https://mediafilez.forgecdn.net/files/5375/495/Better_Dogs_X_Doggy_Talents_Next_v1.2.2%20%5BFabric%5D%20-%20%5B1.20-1.20.1%5D.jar",
+          "Filename": "Better_Dogs_X_Doggy_Talents_Next_v1.2.2 [Fabric] - [1.20-1.20.1].jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": null,
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": null
         },
         {
           "Name": "Better Mount HUD",
@@ -805,6 +839,23 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Chisels and Bits",
+          "Description": "Chisels and Bits is a Minecraft Mod which allows you to cut the large blocks that make your world, and place the little cuts back down. In any way you like.",
+          "Version": "1.4.148",
+          "MinecraftVersion": "1.20.1",
+          "URL": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric",
+          "ImageURL": "",
+          "DownloadURL": "https://mediafilez.forgecdn.net/files/5203/365/chisels-and-bits-fabric-1.4.148.jar",
+          "Filename": "chisels-and-bits-fabric-1.4.148.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": null,
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": null
         },
         {
           "Name": "CICADA",
@@ -1266,6 +1317,23 @@
           "RequiredFiles": [ "e0M1UDsY" ]
         },
         {
+          "Name": "Doggy Talents Next",
+          "Description": "The Art of Minecraft Wolf",
+          "Version": "1.18.10",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/oXgmplvv",
+          "ImageURL": "https://cdn.modrinth.com/data/oXgmplvv/c65653165c119362d45b3c9420cc4939b02d8e28.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/oXgmplvv/versions/UyUUqQaH/DoggyTalentsNext%5BFabric%5D-1.20.1-1.18.10.jar",
+          "Filename": "DoggyTalentsNext[Fabric]-1.20.1-1.18.10.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "oXgmplvv",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "ohNO6lps", "P7dR8mSH" ]
+        },
+        {
           "Name": "Double Doors",
           "Description": "🚪 Multiple identical double doors, trapdoors and fence gates can be opened simultaneously.",
           "Version": "1.20.1-5.7-fabric+forge+neo",
@@ -1379,6 +1447,23 @@
           "InstallationLocation": "mods",
           "FileStage": "release",
           "ProjectID": "72GXx2MO",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Enchant the Rainbow",
+          "Description": "Choose the enchantment glint color for their enchanted items!",
+          "Version": "1.3.0",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/ZAglfWbG",
+          "ImageURL": "https://cdn.modrinth.com/data/ZAglfWbG/icon.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/ZAglfWbG/versions/zMm7wtI0/enchant-the-rainbow-1.3.0%2B1.20.1.jar",
+          "Filename": "enchant-the-rainbow-1.3.0+1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "ZAglfWbG",
           "ClientSide": true,
           "ServerSide": true,
           "RequiresZipExtraction": false,
@@ -1723,6 +1808,23 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Fancy Dyes",
+          "Description": "Adds special dyes that can be used to customize your equipment.",
+          "Version": "2.2.2",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/weDXQCzq",
+          "ImageURL": "https://cdn.modrinth.com/data/weDXQCzq/05abe1c2a85c25b24c57a5d8097738e475101623.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/weDXQCzq/versions/RBNMn6sc/fancydyes-2.2.2.jar",
+          "Filename": "fancydyes-2.2.2.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "weDXQCzq",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "lhGA9TYQ" ]
         },
         {
           "Name": "Farmer's Delight Refabricated",
@@ -3153,23 +3255,6 @@
           "RequiredFiles": [ "40ytxGF2", "P7dR8mSH" ]
         },
         {
-          "Name": "Mythic Mobs",
-          "Description": "Discover a world of mythical creatures in Minecraft",
-          "Version": "1.20.1-fabric-1.4.5",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/avrKhvsK",
-          "ImageURL": "https://cdn.modrinth.com/data/avrKhvsK/d8bdb1a85984537f7fd319a6058d19171d2ae8cb.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/avrKhvsK/versions/EYJzG6I2/mythicmobs-1.20.1-fabric-1.4.5.jar",
-          "Filename": "mythicmobs-1.20.1-fabric-1.4.5.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "avrKhvsK",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "codAaoxh", "7zlUOZvb", "nU0bVIaL" ]
-        },
-        {
           "Name": "Mythic Mounts",
           "Description": "Befriend legendary creatures to accompany you across the world!",
           "Version": "1.20.1-7.2",
@@ -3525,6 +3610,23 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "Polymorphic Energistics",
+          "Description": "Polymorph support for Applied Energistics 2.",
+          "Version": "fabric-0.1.1-1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/VS1a14jA",
+          "ImageURL": "https://cdn.modrinth.com/data/VS1a14jA/b35afd3e7566bb95b1c01871066ba6e259c32074.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/VS1a14jA/versions/YBPDqGX1/polyeng-fabric-0.1.1-1.20.1.jar",
+          "Filename": "polyeng-fabric-0.1.1-1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "VS1a14jA",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "tagwiZkJ", "XxWD5pD3" ]
         },
         {
           "Name": "Pufferfish's Attributes",
@@ -3897,23 +3999,6 @@
           "ProjectID": null,
           "ClientSide": true,
           "ServerSide": false,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": null
-        },
-        {
-          "Name": "Chisels and Bits",
-          "Description": "Chisels and Bits is a Minecraft Mod which allows you to cut the large blocks that make your world, and place the little cuts back down. In any way you like.",
-          "Version": "1.4.148",
-          "MinecraftVersion": "1.20.1",
-          "URL": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits-for-fabric",
-          "ImageURL": "",
-          "DownloadURL": "https://mediafilez.forgecdn.net/files/5203/365/chisels-and-bits-fabric-1.4.148.jar",
-          "Filename": "chisels-and-bits-fabric-1.4.148.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": null,
-          "ClientSide": true,
-          "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": null
         },
@@ -5038,74 +5123,6 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "e0M1UDsY" ]
-        },
-        {
-          "Name": "Applied Energistics 2",
-          "Description": "AE2: A popular automation and storage mod",
-          "Version": "15.2.0",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/XxWD5pD3",
-          "ImageURL": "https://cdn.modrinth.com/data/XxWD5pD3/icon.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/XxWD5pD3/versions/qpG9cRjY/appliedenergistics2-fabric-15.2.0.jar",
-          "Filename": "appliedenergistics2-fabric-15.2.0.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "XxWD5pD3",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": []
-        },
-        {
-          "Name": "Polymorphic Energistics",
-          "Description": "Polymorph support for Applied Energistics 2.",
-          "Version": "fabric-0.1.1-1.20.1",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/VS1a14jA",
-          "ImageURL": "https://cdn.modrinth.com/data/VS1a14jA/b35afd3e7566bb95b1c01871066ba6e259c32074.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/VS1a14jA/versions/YBPDqGX1/polyeng-fabric-0.1.1-1.20.1.jar",
-          "Filename": "polyeng-fabric-0.1.1-1.20.1.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "VS1a14jA",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "tagwiZkJ", "XxWD5pD3" ]
-        },
-        {
-          "Name": "Fancy Dyes",
-          "Description": "Adds special dyes that can be used to customize your equipment.",
-          "Version": "2.2.2",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/weDXQCzq",
-          "ImageURL": "https://cdn.modrinth.com/data/weDXQCzq/05abe1c2a85c25b24c57a5d8097738e475101623.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/weDXQCzq/versions/RBNMn6sc/fancydyes-2.2.2.jar",
-          "Filename": "fancydyes-2.2.2.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "weDXQCzq",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "lhGA9TYQ" ]
-        },
-        {
-          "Name": "Enchant the Rainbow",
-          "Description": "Choose the enchantment glint color for their enchanted items!",
-          "Version": "1.3.0",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/ZAglfWbG",
-          "ImageURL": "https://cdn.modrinth.com/data/ZAglfWbG/icon.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/ZAglfWbG/versions/zMm7wtI0/enchant-the-rainbow-1.3.0%2B1.20.1.jar",
-          "Filename": "enchant-the-rainbow-1.3.0+1.20.1.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "ZAglfWbG",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "P7dR8mSH" ]
         }
       ],
       "LastUpdated": "2024-06-15T23:09:31"
@@ -5121,5 +5138,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngall.com/wp-content/uploads/2016/03/Minecraft-3D-Character-PNG.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Added Enchant the Rainbow and Fancy Dyes"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Added Doggy Talents Next & Better Dogs\n- Removed Mythic Mobs"
 }

@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-v621240900",
+      "ModpackVersion": "KSREFRESH-v624240900",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [

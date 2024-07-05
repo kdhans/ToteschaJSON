@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-v624240900",
+      "ModpackVersion": "KSREFRESH-v621240900",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -1791,23 +1791,6 @@
           "ServerSide": false,
           "RequiresZipExtraction": false,
           "RequiredFiles": []
-        },
-        {
-          "Name": "FakerLib",
-          "Description": "(fabric port of a) Library mod, does nothing by itself",
-          "Version": "0.1.3",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/ORX9fPw1",
-          "ImageURL": "https://cdn.modrinth.com/data/ORX9fPw1/8faa9b4c352c5602411f2f72deee73c1eba89fbd.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/ORX9fPw1/versions/qyN8KLhE/fakerlib-0.1.3.jar",
-          "Filename": "fakerlib-0.1.3.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "beta",
-          "ProjectID": "ORX9fPw1",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "P7dR8mSH" ]
         },
         {
           "Name": "Fancy Dyes",
@@ -5040,40 +5023,6 @@
           "RequiredFiles": [ "P7dR8mSH", "Ua7DFN59", "9s6osm5g" ]
         },
         {
-          "Name": "Zenith",
-          "Description": "Fabric apotheosis port, changes and expands upon many systems",
-          "Version": "1.1.9-1.20.1",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/TLZe11Uj",
-          "ImageURL": "https://cdn.modrinth.com/data/TLZe11Uj/9ac577c0c25f1664a75eaa8bf04bbef94eb296b1.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/TLZe11Uj/versions/n59fTpXn/zenith-1.1.9-1.20.1.jar",
-          "Filename": "zenith-1.1.9-1.20.1.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "TLZe11Uj",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "9sxDq6mj", "ORX9fPw1", "P7dR8mSH" ]
-        },
-        {
-          "Name": "Zenith Attributes",
-          "Description": "Adds attributes, and an attributes viewer, used for Zenith",
-          "Version": "0.2.4",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/9sxDq6mj",
-          "ImageURL": "https://cdn.modrinth.com/data/9sxDq6mj/f44fbedca3f7e6326d9d1afedab08cfff5cee519.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/9sxDq6mj/versions/MgBdJ4O4/zenith_attributes-0.2.4.jar",
-          "Filename": "zenith_attributes-0.2.4.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "beta",
-          "ProjectID": "9sxDq6mj",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "ORX9fPw1", "P7dR8mSH" ]
-        },
-        {
           "Name": "Zephyr",
           "Description": "Zenith Affixes and Gems for the RPG Series",
           "Version": "0.4.1+1.20.1",
@@ -5123,6 +5072,57 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "e0M1UDsY" ]
+        },
+        {
+          "Name": "Zenith",
+          "Description": "Fabric apotheosis port, changes and expands upon many systems",
+          "Version": "1.2.0-1.20.1",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/TLZe11Uj",
+          "ImageURL": "https://cdn.modrinth.com/data/TLZe11Uj/9ac577c0c25f1664a75eaa8bf04bbef94eb296b1.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/TLZe11Uj/versions/ffgWpFS1/zenith-1.2.0-1.20.1.jar",
+          "Filename": "zenith-1.2.0-1.20.1.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "TLZe11Uj",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "9sxDq6mj", "ORX9fPw1", "P7dR8mSH" ]
+        },
+        {
+          "Name": "Zenith Attributes",
+          "Description": "Adds attributes, and an attributes viewer, used for Zenith",
+          "Version": "0.2.4",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/9sxDq6mj",
+          "ImageURL": "https://cdn.modrinth.com/data/9sxDq6mj/f44fbedca3f7e6326d9d1afedab08cfff5cee519.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/9sxDq6mj/versions/MgBdJ4O4/zenith_attributes-0.2.4.jar",
+          "Filename": "zenith_attributes-0.2.4.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "beta",
+          "ProjectID": "9sxDq6mj",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "ORX9fPw1", "P7dR8mSH" ]
+        },
+        {
+          "Name": "FakerLib",
+          "Description": "(fabric port of a) Library mod, does nothing by itself",
+          "Version": "0.1.4",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/ORX9fPw1",
+          "ImageURL": "https://cdn.modrinth.com/data/ORX9fPw1/8faa9b4c352c5602411f2f72deee73c1eba89fbd.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/ORX9fPw1/versions/7pRFET6N/fakerlib-0.1.4.jar",
+          "Filename": "fakerlib-0.1.4.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "beta",
+          "ProjectID": "ORX9fPw1",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "P7dR8mSH" ]
         }
       ],
       "LastUpdated": "2024-06-15T23:09:31"
@@ -5138,5 +5138,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngall.com/wp-content/uploads/2016/03/Minecraft-3D-Character-PNG.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Added Doggy Talents Next & Better Dogs\n- Removed Mythic Mobs"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\r\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\r\n\r\nLatest news\r\n- Updated Zenith (Apotheosis fork) to the Augmented Affixiation update."
 }

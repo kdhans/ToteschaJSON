@@ -110,23 +110,6 @@
           "RequiredFiles": [ "4XJZeZbM", "lhGA9TYQ" ]
         },
         {
-          "Name": "[Let's Do] Vinery",
-          "Description": "Let's do Wine!",
-          "Version": "1.4.22",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/1DWmBJVA",
-          "ImageURL": "https://cdn.modrinth.com/data/1DWmBJVA/4aa492bb738ceb506ee1dd67f0ed862b164a165a.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/1DWmBJVA/versions/IxMe7sqx/letsdo-vinery-fabric-1.4.22.jar",
-          "Filename": "letsdo-vinery-fabric-1.4.22.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "1DWmBJVA",
-          "ClientSide": true,
-          "ServerSide": true,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "lhGA9TYQ", "4XJZeZbM" ]
-        },
-        {
           "Name": "Ad Astra",
           "Description": "Live long and prosper, Ad Astra!",
           "Version": "1.15.18",
@@ -5123,6 +5106,23 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "[Let's Do] Vinery",
+          "Description": "Let's do Wine!",
+          "Version": "1.4.26",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/1DWmBJVA",
+          "ImageURL": "https://cdn.modrinth.com/data/1DWmBJVA/4aa492bb738ceb506ee1dd67f0ed862b164a165a.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/1DWmBJVA/versions/UPNUujMk/letsdo-vinery-fabric-1.4.26.jar",
+          "Filename": "letsdo-vinery-fabric-1.4.26.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "1DWmBJVA",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "4XJZeZbM", "lhGA9TYQ" ]
         }
       ],
       "LastUpdated": "2024-06-15T23:09:31"
@@ -5138,5 +5138,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngall.com/wp-content/uploads/2016/03/Minecraft-3D-Character-PNG.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\r\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\r\n\r\nLatest news\r\n- Updated Zenith (Apotheosis fork) to the Augmented Affixiation update."
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Updated Zenith (Apotheosis fork) to the Augmented Affixiation update. \n- Updated Vinery"
 }

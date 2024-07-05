@@ -3,7 +3,7 @@
     {
       "Name": "The Kitchen Sink",
       "ID": "TheKitchenSink",
-      "ModpackVersion": "KSREFRESH-v752024350",
+      "ModpackVersion": "KSREFRESH-v752024400",
       "MineceaftVersion": "1.20.1",
       "ModLoader": "Fabric",
       "Files": [
@@ -5106,9 +5106,26 @@
           "ServerSide": true,
           "RequiresZipExtraction": false,
           "RequiredFiles": [ "P7dR8mSH" ]
+        },
+        {
+          "Name": "[Let's Do] Vinery",
+          "Description": "Let's do Wine!",
+          "Version": "1.4.26",
+          "MinecraftVersion": "1.20.1",
+          "URL": "http://modrinth.com/mod/1DWmBJVA",
+          "ImageURL": "https://cdn.modrinth.com/data/1DWmBJVA/4aa492bb738ceb506ee1dd67f0ed862b164a165a.png",
+          "DownloadURL": "https://cdn.modrinth.com/data/1DWmBJVA/versions/UPNUujMk/letsdo-vinery-fabric-1.4.26.jar",
+          "Filename": "letsdo-vinery-fabric-1.4.26.jar",
+          "InstallationLocation": "mods",
+          "FileStage": "release",
+          "ProjectID": "1DWmBJVA",
+          "ClientSide": true,
+          "ServerSide": true,
+          "RequiresZipExtraction": false,
+          "RequiredFiles": [ "4XJZeZbM", "lhGA9TYQ" ]
         }
       ],
-      "LastUpdated": "2024-07-05T15:50:22"
+      "LastUpdated": "2024-07-05T16:04:28"
     },
     {
       "Name": "Vanilla",
@@ -5121,5 +5138,5 @@
     }
   ],
   "NewsImageUrl": "https://www.pngall.com/wp-content/uploads/2016/03/Minecraft-3D-Character-PNG.png",
-  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Updated Zenith (Apotheosis fork)"
+  "News": "[b][u]Welcome to Modded Minecraft![/u][/b]\nCheck out our web map of The Kitchen Sink! [b]http://tksmap.totescha.com[/b]\n\nLatest news\n- Updated Zenith (Apotheosis fork) to 1.1.10"
 }
